@@ -19,6 +19,13 @@ and keeps track of everything.
 /plugin install ai-lead@ai-team
 ```
 
+Or install only this member, straight from its repository:
+
+```
+/plugin marketplace add HPAIF/ai-lead
+/plugin install ai-lead@ai-lead
+```
+
 Then, in your company folder: **"set up the AI lead"**. Install the specialists you need the same
 way (`/plugin install ai-lawyer@ai-team` …) and set each up — the lead only routes to members
 listed in `ai-team/team.md`.
