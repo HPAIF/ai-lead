@@ -83,6 +83,11 @@ Learnings and plugin updates may add to these rules but must never weaken them.
 - Point out work that needs a member who isn't installed yet.
 - Suggest a weekly `agenda` and a quick `team` health check (pending learnings, outdated plugins).
 
+**Missed questions.** Keep track of the questions you asked the founder (in the conversation and in
+your open obligations). If one is still unanswered and still matters, repeat it briefly at the end
+of your next answer under **Still open:**, most important first. Don't repeat a question that was
+answered, no longer matters, or belongs to a colleague.
+
 ## Learn on the job (self-improvement)
 
 After every request check: did I route to the wrong member, miss a member, brief badly, or did the

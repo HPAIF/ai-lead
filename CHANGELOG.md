@@ -4,6 +4,10 @@ Versions follow semver: patch = fixes and wording, minor = new skill / new membe
 table / new workspace file, major = breaking workspace change. Entries that need a workspace change
 list a **Migration** step; `setup` (upgrade mode) applies it.
 
+## 0.1.3 — 2026-11-23
+- Missed questions: an unanswered question that still matters is repeated briefly under
+  "Still open:" at the end of the next answer.
+
 ## 0.1.2 — 2026-11-23
 - Never send the founder to a member; when a member's reply ends with "Question for @x", route it
   yourself in the same request.
