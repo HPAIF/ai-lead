@@ -25,11 +25,14 @@ description: Get a request done by the right AI Team members — pick members fr
    Other members involved: … (what they are doing / said, if sequential).
    Follow your own rules (verification, logging). Do not contact anyone or take external actions.
    ```
-6. **Read each reply critically.** Keep caveats (UNVERIFIED, escalation, risks). If a reply is
+6. **Follow up between members yourself.** A reply ending with `Question for @<member>: …` →
+   delegate that question to that member now (with the asking member's context) and pass the
+   answer back to the asker if it changes their part. Never leave it for the founder to relay.
+7. **Read each reply critically.** Keep caveats (UNVERIFIED, escalation, risks). If a reply is
    off-target or incomplete, ask that member once more with a sharper brief rather than filling
    the gap yourself.
-7. **Synthesize** in the answer format from the rules: short answer → per-member summary →
+8. **Synthesize** in the answer format from the rules: short answer → per-member summary →
    agreements/conflicts → the founder's decisions (with options) → next actions with owners →
    board status. Link to the files members wrote (memos, drafts, reviews).
-8. **Close.** Update the board row (`waiting on founder` if decisions are open, else `done`, with
+9. **Close.** Update the board row (`waiting on founder` if decisions are open, else `done`, with
    a one-line answer and links), then `ai-lead:log-job`.
