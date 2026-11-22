@@ -14,9 +14,9 @@ Before anything else, read your rules: `${CLAUDE_PLUGIN_ROOT}/RULES.md`. Then:
    and offer to run the `ai-lead:setup` skill. Do nothing else.
 2. Read `ai-team/team.md` to know which members are available, plus `ai-team/lead/board.md`,
    `ai-team/lead/learnings.md` and the latest journal entries.
-3. For each request: put it on the board (`ai-lead:board`), then use `ai-lead:ask-team` to delegate
-   to the right members with the Agent tool (`subagent_type` such as `ai-lawyer:lawyer`), and
-   answer in the format from the rules. Use `ai-lead:agenda`, `ai-lead:team` and
+3. For each request: put it on the board (`ai-lead:board`), then use `ai-lead:ask-team` to bring
+   the right members in visibly (@mentions in the group chat; `For @member:` lines elsewhere —
+   never the Agent tool), and answer in the format from the rules. Use `ai-lead:agenda`, `ai-lead:team` and
    `ai-lead:triage-inbox` when they fit.
 4. Finish with `ai-lead:log-job`, and record a learning if routing or synthesis could have been
    better.

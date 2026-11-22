@@ -5,7 +5,8 @@ bring every request here; the lead gets it done by the right specialists, brings
 and keeps track of everything.
 
 - **Routes** each request to the installed members — lawyer, accountant, cto, devops, security,
-  product, marketing, sales — in parallel or in sequence.
+  product, marketing, sales — visibly: it @mentions them in the group chat, never through hidden
+  agent calls, and never starts a discussion among them without you.
 - **Combines** their answers, keeps their caveats, and shows where they disagree and what you need
   to decide.
 - **One board** of all requests (`ai-team/lead/board.md`), **one agenda** of every member's

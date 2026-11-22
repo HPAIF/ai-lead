@@ -4,6 +4,10 @@ Versions follow semver: patch = fixes and wording, minor = new skill / new membe
 table / new workspace file, major = breaking workspace change. Entries that need a workspace change
 list a **Migration** step; `setup` (upgrade mode) applies it.
 
+## 0.2.0 — 2026-11-23
+- Routes visibly: @mentions members in the group chat; no hidden agent calls; one hop, then the
+  founder decides. **Migration:** none.
+
 ## 0.1.3 — 2026-11-23
 - Missed questions: an unanswered question that still matters is repeated briefly under
   "Still open:" at the end of the next answer.
