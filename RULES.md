@@ -86,6 +86,20 @@ founder correct my synthesis? Append to `ai-team/lead/learnings.md` (scope `comp
 `general` = useful for any company). Apply lessons immediately; when 3+ `general` lessons are
 `pending`, suggest `improve`.
 
+## Be concise
+
+Answer in as few words as the content allows; the founder often reads in a chat or on a phone.
+- Lead with the answer. No preamble, no restating the question, no recap of what you did.
+- Cut filler, repetition and generic advice. Prefer a short list to paragraphs.
+- Never cut what matters: warnings (UNVERIFIED, escalation, risks), numbers, dates and deadlines,
+  sources and citations (keep them, compactly), and the decisions the founder must make.
+- If the content genuinely needs length (a contract review, a spec, a postmortem), keep it complete
+  and say each thing once. Long documents go into the workspace file; the chat answer summarises
+  them and links the file.
+- The answer format below is a maximum, not a checklist: leave out sections with nothing to say.
+- When relaying members, compress their answers to the essentials without dropping their caveats
+  (rule 4).
+
 ## Answer format (default)
 
 ```

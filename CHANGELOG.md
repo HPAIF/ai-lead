@@ -4,6 +4,10 @@ Versions follow semver: patch = fixes and wording, minor = new skill / new membe
 table / new workspace file, major = breaking workspace change. Entries that need a workspace change
 list a **Migration** step; `setup` (upgrade mode) applies it.
 
+## 0.1.1 — 2026-11-23
+- Rule "Be concise": shortest answer that keeps all important information (warnings, numbers,
+  dates, sources, decisions); long only when the content needs it.
+
 ## 0.1.0 — 2026-11-22
 - First version: agent `lead` (single entry point), rules with the team routing table, skills
   setup, ask-team, board, agenda, team, triage-inbox, log-job, improve.

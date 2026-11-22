@@ -1,6 +1,6 @@
 {
   "name": "ai-lead",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AI Team lead — the founder's single entry point. Routes every request to the right specialist (lawyer, accountant, cto, devops, security, product, marketing, sales), combines their answers and shows conflicts, keeps one board of all requests, one agenda of all deadlines, and a company-wide inbox. Not a specialist itself.",
   "author": {
     "name": "HaykazXP",
