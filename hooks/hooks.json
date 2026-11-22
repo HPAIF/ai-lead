@@ -1,0 +1,16 @@
+{
+  "description": "At session start, shows the team-wide picture (installed members, board items waiting on the founder, every member's urgent obligations, company inbox) when an ai-team/lead workspace exists in the project folder or a parent folder. Silent otherwise.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/session-context.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
